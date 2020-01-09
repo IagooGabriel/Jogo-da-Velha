@@ -24,7 +24,7 @@ import javax.swing.event.MenuListener;
 
 public class JogoDaVelha {
     
-    //USANDO VARIAVEL PARA SER ACESSADA EM QUALQUER LUGAR! (PARA MUDAR TAMANHO DO GRID CONFORME FOR TROCAR MODO DE JOGO!!
+    //USANDO VARIAVEL PARA SER ACESSADA EM QUALQUER LUGAR! (PARA MUDAR TAMANHO DO GRID CONFORME FOR TROCAR MODO DE JOGO!
     public static class Tamanho{
         public static int tamanhoGrid=3; //quantidade de colunas que o grid irá ter. OBS: o padrao é 3 colunas(3x3)
         public static int qtdBtn=9;//quantidade de botoes que serao criados. OBS: o padrao é 9 botoes (3x3)
